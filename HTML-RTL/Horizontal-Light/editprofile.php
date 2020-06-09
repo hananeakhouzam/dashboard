@@ -144,7 +144,7 @@ include 'header.php';
 											</div>
 										</div>
 								<div class="card-footer text-left">
-									<button type="submit" class="btn btn-primary waves-effect waves-light">تحديث الملف
+									<button type="submit" class="btn btn-primary waves-effect waves-light editprofile">تحديث الملف
 </button>
 								</div>
 									

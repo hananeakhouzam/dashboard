@@ -59,7 +59,7 @@
     
         <div class="form-group">
           <label for="">التحويل من </label>
-           <select name="from"  class="form-control card card card-primary" >
+           <select name="from"  class="form-control card " >
                <option value="aucun">اختيار الموظفة</option>
                                 <option value="142">rania</option>
                                 <option value="143">ibtissam</option>
@@ -74,7 +74,7 @@
 
         <div class="form-group">
           <label for="">التحويل إلى</label>
-           <select name="to"  class="form-control card card-primary" >
+           <select name="to"  class="form-control " >
                <option value="aucun">اختيار الموظفة</option>
                                 <option value="142">rania</option>
                                 <option value="143">ibtissam</option>
@@ -89,7 +89,7 @@
 
 
         <div class="form-group">
-            <input type="submit" class='btn btn-success btn-block' value="تحويل الطلبات الى الموظفة الجديدة" / >
+            <input type="submit" class='btn btn-success btn-block ' value="تحويل الطلبات الى الموظفة الجديدة" / >
         </div>
     </form>
   </div>
