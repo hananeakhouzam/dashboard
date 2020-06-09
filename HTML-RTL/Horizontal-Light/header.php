@@ -34,5 +34,37 @@
 
 		<!--- Animations css-->
 		<link href="../../assets/css/animate.css" rel="stylesheet">
+		<style type="text/css">
+			button.btn.btn-main-primary.btn-block {
+    background: rgb(90,2,255);
+    background: linear-gradient(135deg, rgba(90,2,255,1) 0%, rgba(130,0,255,1) 100%);
+}
+button.btn.btn-main-primary.btn-block {
+    appearance: none !important;
+    cursor: pointer;
+ //
+    background-color:
+ background-image: linear-gradient( 135deg, #CE9FFC 0%, #7367F0 100%);
+ //
+    border-style: solid;
+    border: none;
+ //
+    border-width: 2px;
+    border-radius: 3px;
+ //
+    border-image: linear-gradient( 135deg, #CE9FFC 10%, #7367F0 100%);
+    color: white;
+    font-size: 18px;
+    line-height: 2.5;
+    padding: 0 1em;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: all 150ms;
+    box-shadow: 0 8px 20px -10px rgba($gradient-color-2, 1);
+    min-width: 144px;
+    display: block;
+    margin: 1em auto;
+}
+		</style>
 
 	</head>
