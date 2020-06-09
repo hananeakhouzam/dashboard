@@ -44,20 +44,15 @@
 						</div>
 <div class="content">
 
-
-<div class="manager-header" style='margin-top:55px;'>
-  <div class="alert alert-danger">
-    <h6 class="slim-pagetitle">تحويل الطلبات من موظفة لأخرى</h6>
-    <h5>المرجوا استعمال هذه الأداة بانتباه ، لا يمكن التراجع عن العملية</h5>
-    <h5>يتم تحويل فقط الطلبات قيد المعالجة</h5>
-  </div>
-  <a id="contactNavicon"  href="" class="contact-navicon"><i class="icon ion-navicon-round"></i></a>
-</div>
-
-
-
-
-
+<div class="col-12 col-sm-4 col-md-12 col-xl-4">
+							<div class="card bg-danger text-white">
+								<div class="card-body">
+									    <h6 class="slim-pagetitle">تحويل الطلبات من موظفة لأخرى</h6>
+									المرجوا استعمال هذه الأداة بانتباه ، لا يمكن التراجع عن العملية</h5>
+    <h5>يتم تحويل فقط الطلبات قيد المعالجة  
+								</div>
+							</div>
+						</div>
 <div class="panel panel-flat">
     <div class="panel-body text-left">
       <form action="/lists/transform/"  method="POST" id="transform_form">

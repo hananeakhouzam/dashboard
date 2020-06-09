@@ -43,8 +43,9 @@
 						
 						</div>
 
-					</div>
-	<div class="manager-wrapper">
+
+
+<div class="row">
 <div class="col-md-7">
 <div class="panel panel-table mg-t-20 mg-sm-t-30">
 <div class="panel-header">
@@ -71,6 +72,8 @@
 </div>
 </div>
 </div>
+
+
 <div class="col-md-5">
 <div class="panel panel-table mg-t-20 mg-sm-t-30">
 <div class="panel-header">
@@ -108,10 +111,12 @@
 </div>
 
 </div>
+</div>
 				
 				</div>
+
+					</div>
 				<!-- Container closed -->
-			</div>
 			<!-- main-content closed -->
 
 		
