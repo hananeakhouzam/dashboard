@@ -65,6 +65,9 @@ button.btn.btn-main-primary.btn-block {
     display: block;
     margin: 1em auto;
 }
+input.btn.btn-success.btn-block {
+    background-image: linear-gradient( 135deg, #6B73FF 10%, #000DFF 150%);
+}
 		</style>
 
 	</head>

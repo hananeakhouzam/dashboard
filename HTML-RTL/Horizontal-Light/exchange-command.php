@@ -55,11 +55,11 @@
 						</div>
 <div class="panel panel-flat">
     <div class="panel-body text-left">
-      <form action="/lists/transform/"  method="POST" id="transform_form">
+      <form action="/lists/transform/"  method="POST" id="transform_form" >
     
         <div class="form-group">
           <label for="">التحويل من </label>
-           <select name="from"  class="form-control" >
+           <select name="from"  class="form-control card card card-primary" >
                <option value="aucun">اختيار الموظفة</option>
                                 <option value="142">rania</option>
                                 <option value="143">ibtissam</option>
@@ -74,7 +74,7 @@
 
         <div class="form-group">
           <label for="">التحويل إلى</label>
-           <select name="to"  class="form-control" >
+           <select name="to"  class="form-control card card-primary" >
                <option value="aucun">اختيار الموظفة</option>
                                 <option value="142">rania</option>
                                 <option value="143">ibtissam</option>

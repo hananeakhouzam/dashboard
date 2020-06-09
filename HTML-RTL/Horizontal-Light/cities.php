@@ -103,7 +103,7 @@
         </div>      
        
         <div class="form-group">
-            <input type="submit" class='btn btn-success btn-block' value="اضافة مدينة جديدة" / >
+            <input type="submit" class='btn btn-success btn-block cities' value="اضافة مدينة جديدة" / >
         </div>
     </form>
   </div>
