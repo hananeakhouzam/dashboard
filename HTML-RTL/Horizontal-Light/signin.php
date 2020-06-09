@@ -54,26 +54,8 @@ include 'header.php';
 		<!-- End Page -->
 
 		<!-- JQuery min js -->
-		<script src="../../assets/plugins/jquery/jquery.min.js"></script>
-
-		<!-- Bootstrap Bundle js -->
-		<script src="../../assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-		<!-- Ionicons js -->
-		<script src="../../assets/plugins/ionicons/ionicons.js"></script>
-
-		<!-- Moment js -->
-		<script src="../../assets/plugins/moment/moment.js"></script>
-
-		<!-- eva-icons js -->
-		<script src="../../assets/js/eva-icons.min.js"></script>
-
-		<!-- Rating js-->
-		<script src="../../assets/plugins/rating/jquery.rating-stars.js"></script>
-		<script src="../../assets/plugins/rating/jquery.barrating.js"></script>
-
-		<!-- custom js -->
-		<script src="../../assets/js/custom.js"></script>
-
+		<?php 
+			include 'footer.php';
+			?>
 	</body>
 </html>

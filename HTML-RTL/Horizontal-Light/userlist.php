@@ -1009,53 +1009,9 @@ include 'header.php';
 		</div>
 		<!-- End Page -->
 
-		<!-- Back-to-top -->
-		<a href="#top" id="back-to-top"><i class="las la-angle-double-up"></i></a>
-
-		<!-- JQuery min js -->
-		<script src="../../assets/plugins/jquery/jquery.min.js"></script>
-
-		<!--Internal  Datepicker js -->
-		<script src="../../assets/plugins/jquery-ui/ui/widgets/datepicker.js"></script>
-
-		<!-- Bootstrap Bundle js -->
-		<script src="../../assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-		<!-- Ionicons js -->
-		<script src="../../assets/plugins/ionicons/ionicons.js"></script>
-
-		<!-- Moment js -->
-		<script src="../../assets/plugins/moment/moment.js"></script>
-
-		<!-- Internal Select2 js-->
-		<script src="../../assets/plugins/select2/js/select2.min.js"></script>
-
-		<!-- P-scroll js -->
-		<script src="../../assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-		<script src="../../assets/plugins/perfect-scrollbar/p-scroll.js"></script>
-
-		<!-- eva-icons js -->
-		<script src="../../assets/js/eva-icons.min.js"></script>
-
-		<!-- Rating js-->
-		<script src="../../assets/plugins/rating/jquery.rating-stars.js"></script>
-		<script src="../../assets/plugins/rating/jquery.barrating.js"></script>
-
-		<!-- Custom Scroll bar Js-->
-		<script src="../../assets/plugins/mscrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
-
-		<!-- Horizontalmenu js-->
-		<script src="../../assets/plugins/horizontal-menu/horizontal-menu-2/horizontal-menu.js"></script>
-
-		<!-- Right-sidebar js -->
-		<script src="../../assets/plugins/sidebar/sidebar-rtl.js"></script>
-		<script src="../../assets/plugins/sidebar/sidebar-custom.js"></script>
-
-		<!-- Sticky js -->
-		<script src="../../assets/js/sticky.js"></script>
-
-		<!-- custom js -->
-		<script src="../../assets/js/custom.js"></script>
+			<?php 
+			include 'footer.php';
+			?>
 
 	</body>
 </html>
